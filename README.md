@@ -1,8 +1,10 @@
-# React SPA (TM) Framework 🚀
+# React SPA, the Framework™ 🚀
 
 React SPA is the simplest way to build modern React web applications. 
 
 > It's not just a framework, it's the absence of one.
+
+Read the announcement post here: https://codinhood.com/post/react-spa/
 
 ### Why React SPA? 🌟
 
@@ -24,7 +26,7 @@ React SPA is the simplest way to build modern React web applications.
 ### More reasons to love React SPA
 - **Pure Client-Side Goodness**: No need to worry about servers, static rendering, or rehydration. We send everything, _everything_, all at once to the client. Nothing can go wrong with that approach.
 - **No Adapter Libraries**: Common libraries just work™. No need for a adapter libraries that sit between the framework and the library. Just install the library directly. React SPA allows you to make use of all the thousands of libaries that only work on the client.
-- **SEasy to understand**: You might have skill issues like me. Learned React in 2016 and scared of changes. React SPA is here to comfort you.
+- **Easy to understand**: You might have skill issues like me. Learned React in 2016 and scared of changes. React SPA is here to comfort you.
 - **Batteries _NOT_ included**: With React SPA, you don't have to deal with pre-configured tools and features you will never use. You start with blank slate much like your bank account after deploying SSR.
 - **Simplifed Deployments**: Deploy your app anywhere that serves static files: a CDN, GitHub Pages, your cousin's Raspberry Pi. React SPA is ready to go.
 - **No Overhead**:  Why let a framework dictate your choices? React SPA encourages you to embrace freedom and handle routing, data fetching, and state management the way we did when AI was just Deep Learning.
